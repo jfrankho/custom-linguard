@@ -1,0 +1,13 @@
+cryptography
+yamlable
+Werkzeug
+urllib3
+PyYAML
+schedule
+coolname
+pytest
+faker
+Flask
+Flask-Form
+Flask-Login
+Flask-WTF
